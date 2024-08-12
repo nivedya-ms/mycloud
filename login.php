@@ -21,9 +21,11 @@
 //         }
 //     } else {
 //         $error = "No user found with that username!";
+//hi
 //     }
 // }
 ?> -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
